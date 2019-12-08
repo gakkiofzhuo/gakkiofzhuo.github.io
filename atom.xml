@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>毎秒5センチ</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2019-12-08T06:14:13.508Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>刘小宅</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客换电脑？</title>
+    <link href="/2019/12/08/hexo%E5%8D%9A%E5%AE%A2%E6%8D%A2%E7%94%B5%E8%84%91%EF%BC%9F/"/>
+    <id>/2019/12/08/hexo博客换电脑？/</id>
+    <published>2019-12-08T05:21:56.000Z</published>
+    <updated>2019-12-08T06:14:13.508Z</updated>
+    
+    <summary type="html">
+    
+      热爱技术的人
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>北漂的日子</title>
+    <link href="/2019/09/21/%E5%8C%97%E6%BC%82%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    <id>/2019/09/21/北漂的日子/</id>
+    <published>2019-09-20T23:44:21.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      一个多月北漂的日子
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gakki的真实实拍</title>
+    <link href="/2019/07/20/gakki%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%AE%9E%E6%8B%8D/"/>
+    <id>/2019/07/20/gakki的真实实拍/</id>
+    <published>2019-07-20T02:37:30.000Z</published>
+    <updated>2019-12-08T04:52:44.357Z</updated>
+    
+    <summary type="html">
+    
+      本视频真实的记录了gakki的出道经历
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>上海gakki圣地巡游</title>
+    <link href="/2019/07/13/%E4%B8%8A%E6%B5%B7gakki%E5%9C%A3%E5%9C%B0%E5%B7%A1%E6%B8%B8/"/>
+    <id>/2019/07/13/上海gakki圣地巡游/</id>
+    <published>2019-07-13T02:04:45.000Z</published>
+    <updated>2019-12-08T04:52:44.357Z</updated>
+    
+    <summary type="html">
+    
+      根据06年的短片《相遇》，简约的圣地巡游
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>献给416实验室的童孩</title>
+    <link href="/2019/07/04/%E7%8C%AE%E7%BB%99416%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E7%AB%A5%E5%AD%A9/"/>
+    <id>/2019/07/04/献给416实验室的童孩/</id>
+    <published>2019-07-04T11:57:30.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      热爱生活的人
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>目前博客中最好用的播放器插件</title>
+    <link href="/2019/07/04/%E7%9B%AE%E5%89%8D%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E6%92%AD%E6%94%BE%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
+    <id>/2019/07/04/目前博客中最好用的播放器插件/</id>
+    <published>2019-07-04T02:59:19.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      目前博客中最好用的两个播放器插件，音乐和视频播放器
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>致奋斗中的你</title>
+    <link href="/2019/07/03/%E8%87%B4%E5%A5%8B%E6%96%97%E4%B8%AD%E7%9A%84%E4%BD%A0/"/>
+    <id>/2019/07/03/致奋斗中的你/</id>
+    <published>2019-07-03T15:30:00.000Z</published>
+    <updated>2019-12-08T04:52:44.359Z</updated>
+    
+    <summary type="html">
+    
+      不管你是高考生、考研生、工作生，希望你们能勿忘初心，实现梦想
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>海街日记</title>
+    <link href="/2019/06/19/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/"/>
+    <id>/2019/06/19/海街日记/</id>
+    <published>2019-06-19T02:10:50.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      热爱生活的人
+    
+    </summary>
+    
+      <category term="电影" scheme="/categories/%E7%94%B5%E5%BD%B1/"/>
+    
+    
+      <category term="电影" scheme="/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纪念第一条说说</title>
+    <link href="/2019/06/18/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E6%9D%A1%E8%AF%B4%E8%AF%B4/"/>
+    <id>/2019/06/18/纪念第一条说说/</id>
+    <published>2019-06-18T07:51:26.000Z</published>
+    <updated>2019-12-08T04:52:44.359Z</updated>
+    
+    <summary type="html">
+    
+      这是本博客第一条说说，主要是用来记录的，没有任何心情可发~~~
+    
+    </summary>
+    
+      <category term="说说" scheme="/categories/%E8%AF%B4%E8%AF%B4/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人间失格</title>
+    <link href="/2018/11/08/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
+    <id>/2018/11/08/人间失格/</id>
+    <published>2018-11-08T13:28:43.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      人间失格的读后感
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生活中的那些琐事</title>
+    <link href="/2018/11/05/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E9%82%A3%E4%BA%9B%E7%90%90%E4%BA%8B/"/>
+    <id>/2018/11/05/生活中的那些琐事/</id>
+    <published>2018-11-05T09:49:36.000Z</published>
+    <updated>2019-12-08T04:52:44.358Z</updated>
+    
+    <summary type="html">
+    
+      生活中遇到的一些事的感触
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>飞行家</title>
+    <link href="/2018/10/29/%E9%A3%9E%E8%A1%8C%E5%91%98/"/>
+    <id>/2018/10/29/飞行员/</id>
+    <published>2018-10-29T01:49:36.000Z</published>
+    <updated>2019-12-08T04:52:44.359Z</updated>
+    
+    <summary type="html">
+    
+      飞行家的观后感
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo+github搭建个人独立博客</title>
+    <link href="/2018/10/27/hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    <id>/2018/10/27/hexo-github搭建个人独立博客/</id>
+    <published>2018-10-27T07:09:35.000Z</published>
+    <updated>2019-12-08T04:52:44.357Z</updated>
+    
+    <summary type="html">
+    
+      hexo+github搭建个人独立博客
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一台电脑使用两个Github账号</title>
+    <link href="/2018/10/27/%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E4%B8%A4%E4%B8%AAGithub%E8%B4%A6%E5%8F%B7/"/>
+    <id>/2018/10/27/一台电脑使用两个Github账号/</id>
+    <published>2018-10-27T03:33:29.000Z</published>
+    <updated>2019-12-08T04:52:44.357Z</updated>
+    
+    <summary type="html">
+    
+      一台电脑使用两个Github账号
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="git" scheme="/tags/git/"/>
+    
+  </entry>
+  
+</feed>
