@@ -1,0 +1,142 @@
+# site name
+prefixName: 桜の季節
+siteName: 刘小宅
+# favicon and site master avatar
+favicon: /images/favicon.ico
+avatar: /images/avatar.jpg
+url: /
+description: 未来は私が欲しい未来ではありません
+cdn: #https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+pjax: 1
+# 1开启
+mathjax: 0
+
+notice: 此博客目前正在努力开发中...
+
+lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+MoreImg: https://pic2.superbed.cn/item/5d0245f9451253d1783b6e3f.jpg
+
+menus:
+  首页: { path: /, fa: fa-fort-awesome faa-shake }
+  归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
+    技术: {path: /categories/技术/, fa: fa-code }, 
+    生活: {path: /categories/生活/, fa: fa-file-text-o }, 
+    资源: {path: /categories/资源/, fa: fa-cloud-download }, 
+    随想: {path: /categories/随想/, fa: fa-commenting-o },
+    转载: {path: /categories/转载/, fa: fa-book }
+  } }
+  清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
+    书单: {path: /tags/阅读/, fa: fa-th-list faa-bounce }, 
+    番组: {path: /bangumis/, fa: fa-film faa-vertical }, 
+    歌单: {path: /music/, fa: fa-headphones },
+    图集: {path: /photo/, fa: fa-photo }
+  } }
+  说说: { path: /categories/说说/, fa: fa-comments faa-shake }
+  留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
+  友人帐: { path: /links/, fa: fa-link faa-shake }
+  赞赏: { path: /donate/, fa: fa-heart faa-pulse }
+  关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
+    我: {path: /about/, fa: fa-meetup}, 
+    主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
+    Lab: {path: /lab/, fa: fa-cogs },
+  } }
+  #客户端: { path: /client/, fa: fa-android faa-vertical }
+  RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
+
+
+# Home page sort type: -1: newer first，1: older first.
+homePageSortType: -1
+# Home page article shown number)
+homeArticleShown: 10
+# 背景图片 更好的修改
+bg:
+  - https://pic.superbed.cn/item/5d024605451253d1783b6fa0.jpg
+  - https://pic.superbed.cn/item/5d024569451253d1783b5d00.jpg
+  - https://pic.superbed.cn/item/5d02455c451253d1783b5b57.jpg
+  - https://pic.superbed.cn/item/5d024516451253d1783b52e9.jpg
+  - https://pic2.superbed.cn/item/5d024573451253d1783b5e48.jpg
+  - https://pic.superbed.cn/item/5d02454a451253d1783b58f5.jpg
+  - https://pic.superbed.cn/item/5d024584451253d1783b6010.jpg
+  - https://pic1.superbed.cn/item/5d0245f9451253d1783b6e3f.jpg
+  - https://pic2.superbed.cn/item/5d024527451253d1783b5564.jpg
+
+# 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
+bgclass: filter-dot
+
+# startdash url, title, desc img
+startdash: 
+  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: https://pic.superbed.cn/item/5d0246c8451253d1783b875a.jpg}
+  - {url: https://space.bilibili.com/47087660, title: Bilibili, desc: 博主的b站视频, img: https://pic1.superbed.cn/item/5d024516451253d1783b52e9.jpg}
+  - {url: https://gakkil.gitee.io/, title: 刘小宅技术博客, desc: 技术服务, img: https://pic.superbed.cn/item/5d024605451253d1783b6fa0.jpg}
+
+
+
+# your site build time or founded date
+siteBuildingTime: 06/11/2018
+
+#social  url, img PC端配置
+social:
+  github: {url: https://github.com/gakkiofzhuo, img: https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/images/sns/github.png}
+  sina: {url: https://weibo.com/u/3310889015, img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/social/sina.png}
+  wangyiyun: {url: https://music.163.com/#/user/home?id=369288645, img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/social/wangyiyun.png}
+  qq: {url: https://wpa.qq.com/msgrd?v=3&uin=575920824&site=qq&menu=yes, img: https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/images/sns/qq.png}
+  bilibili: {url: https://space.bilibili.com/47087660, img: https://pic.superbed.cn/item/5d0246e9451253d1783b8b2d.jpg}
+  wechat: {url: /#, qrcode: https://pic2.superbed.cn/item/5d02490d451253d1783bc278.jpg, img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/social/wechat.png}
+
+#social  url, img 移动端配置
+msocial:
+  github: {url: https://github.com/gakkiofzhuo, fa: fa-github, color: 333}
+  weibo: {url: https://weibo.com/u/3310889015, fa: fa-weibo, color: dd4b39}
+  qq: {url: https://wpa.qq.com/msgrd?v=3&uin=575920824&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+
+donate:
+  #paypal: https://www.paypal.me/hojuncn
+  alipay: https://pic.superbed.cn/item/5d0246f5451253d1783b8c98.jpg
+  wechat: https://pic2.superbed.cn/item/5d0246ef451253d1783b8bc5.jpg
+  wechatSQ: https://pic.superbed.cn/item/5d0246fa451253d1783b8d25.jpg
+
+# 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
+movies:
+  url: https://gakkil.gitee.io/gakkil-video/movie
+  # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
+  name: shape.mp4
+
+aplayer: 
+  id: 2660651585
+  server: netease
+  type: playlist
+  fixed: true
+  autoplay: false
+  loop: all
+  order: random
+  preload: auto
+  volume: 0.7
+  mutex: true
+
+# Valine
+valine:
+  enable: true
+  v_appId: Gxhj6I4pE61SXGJliQkQzeKL-gzGzoHsz
+  v_appKey: q2mJpeLueoVfHytP4FWxsIUM
+  notify: false
+  verify: false
+  visitor: true
+  avatar: 'identicon' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
+  pageSize: 10
+  placeholder: "你是我一生只会遇见一次的惊喜 ..."
+
+# 爱心
+clicklove:
+   enable: true
+
+# 不蒜子统计量
+busuanziStatistics:
+  enable: true
+  totalTraffic: true # 总访问量
+  totalNumberOfvisitors: true # 总人次
+  
+# 文章热度统计
+leancloud:
+  enable: false
+  appid: Gxhj6I4pE61SXGJliQkQzeKL-gzGzoHsz
+  appkey: q2mJpeLueoVfHytP4FWxsIUM

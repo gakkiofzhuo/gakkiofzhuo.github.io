@@ -1,0 +1,20 @@
+<% if (theme.valine.enable && post.comments) { %>
+<div id="<%= id %>"></div>
+<script>
+  window.onload = function(){
+      var valine = new Valine();
+      valine.init({
+        el: '#<%= id %>',
+        appId: "<%= theme.valine.v_appId %>",
+        appKey: "<%= theme.valine.v_appKey %>",
+        notify: '<%- theme.valine.notify %>' === 'true',
+        verify: '<%- theme.valine.verify %>' === 'true',
+        visitor: '<%- theme.valine.visitor %>' === 'true',
+        avatar: '<%- theme.valine.avatar %>',
+        pageSize: '<%- theme.valine.pageSize %>',
+        path: '<%= path %>',
+        placeholder: '<%= theme.valine.placeholder %>'
+      })
+  }
+</script>
+<% } %>
