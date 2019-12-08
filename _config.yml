@@ -93,7 +93,7 @@ theme: Sakura
 deploy:
   type: git
   repo: 
-    github: git@github.gakki:gakkiofzhuo/gakkiofzhuo.github.io.git
+    github: git@gakkij.github.com:gakkiofzhuo/gakkiofzhuo.github.io.git
     coding: git@git.dev.tencent.com:liuzhuo19940206/liuzhuo19940206.git
   branch: master
 
