@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-12-08T06:14:13.508Z</updated>
+  <updated>2020-01-01T06:31:34.617Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2019再见</title>
+    <link href="/2020/01/01/2019%E5%86%8D%E8%A7%81/"/>
+    <id>/2020/01/01/2019再见/</id>
+    <published>2020-01-01T05:47:37.000Z</published>
+    <updated>2020-01-01T06:31:34.617Z</updated>
+    
+    <summary type="html">
+    
+      热爱生活的人
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="阅读" scheme="/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo博客换电脑？</title>
     <link href="/2019/12/08/hexo%E5%8D%9A%E5%AE%A2%E6%8D%A2%E7%94%B5%E8%84%91%EF%BC%9F/"/>
     <id>/2019/12/08/hexo博客换电脑？/</id>
     <published>2019-12-08T05:21:56.000Z</published>
-    <updated>2019-12-08T06:14:13.508Z</updated>
+    <updated>2020-01-01T05:56:28.371Z</updated>
     
     <summary type="html">
     
@@ -41,7 +61,7 @@
     <link href="/2019/09/21/%E5%8C%97%E6%BC%82%E7%9A%84%E6%97%A5%E5%AD%90/"/>
     <id>/2019/09/21/北漂的日子/</id>
     <published>2019-09-20T23:44:21.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T06:19:26.962Z</updated>
     
     <summary type="html">
     
@@ -61,7 +81,7 @@
     <link href="/2019/07/20/gakki%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%AE%9E%E6%8B%8D/"/>
     <id>/2019/07/20/gakki的真实实拍/</id>
     <published>2019-07-20T02:37:30.000Z</published>
-    <updated>2019-12-08T04:52:44.357Z</updated>
+    <updated>2020-01-01T05:57:55.553Z</updated>
     
     <summary type="html">
     
@@ -81,7 +101,7 @@
     <link href="/2019/07/13/%E4%B8%8A%E6%B5%B7gakki%E5%9C%A3%E5%9C%B0%E5%B7%A1%E6%B8%B8/"/>
     <id>/2019/07/13/上海gakki圣地巡游/</id>
     <published>2019-07-13T02:04:45.000Z</published>
-    <updated>2019-12-08T04:52:44.357Z</updated>
+    <updated>2020-01-01T05:57:41.028Z</updated>
     
     <summary type="html">
     
@@ -101,7 +121,7 @@
     <link href="/2019/07/04/%E7%8C%AE%E7%BB%99416%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E7%AB%A5%E5%AD%A9/"/>
     <id>/2019/07/04/献给416实验室的童孩/</id>
     <published>2019-07-04T11:57:30.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T05:57:12.224Z</updated>
     
     <summary type="html">
     
@@ -121,7 +141,7 @@
     <link href="/2019/07/04/%E7%9B%AE%E5%89%8D%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E6%92%AD%E6%94%BE%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
     <id>/2019/07/04/目前博客中最好用的播放器插件/</id>
     <published>2019-07-04T02:59:19.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T05:57:00.786Z</updated>
     
     <summary type="html">
     
@@ -141,7 +161,7 @@
     <link href="/2019/07/03/%E8%87%B4%E5%A5%8B%E6%96%97%E4%B8%AD%E7%9A%84%E4%BD%A0/"/>
     <id>/2019/07/03/致奋斗中的你/</id>
     <published>2019-07-03T15:30:00.000Z</published>
-    <updated>2019-12-08T04:52:44.359Z</updated>
+    <updated>2020-01-01T05:56:43.279Z</updated>
     
     <summary type="html">
     
@@ -161,7 +181,7 @@
     <link href="/2019/06/19/%E6%B5%B7%E8%A1%97%E6%97%A5%E8%AE%B0/"/>
     <id>/2019/06/19/海街日记/</id>
     <published>2019-06-19T02:10:50.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T05:57:18.429Z</updated>
     
     <summary type="html">
     
@@ -181,7 +201,7 @@
     <link href="/2019/06/18/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E6%9D%A1%E8%AF%B4%E8%AF%B4/"/>
     <id>/2019/06/18/纪念第一条说说/</id>
     <published>2019-06-18T07:51:26.000Z</published>
-    <updated>2019-12-08T04:52:44.359Z</updated>
+    <updated>2020-01-01T05:56:55.799Z</updated>
     
     <summary type="html">
     
@@ -199,7 +219,7 @@
     <link href="/2018/11/08/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
     <id>/2018/11/08/人间失格/</id>
     <published>2018-11-08T13:28:43.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T05:57:32.581Z</updated>
     
     <summary type="html">
     
@@ -219,7 +239,7 @@
     <link href="/2018/11/05/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E9%82%A3%E4%BA%9B%E7%90%90%E4%BA%8B/"/>
     <id>/2018/11/05/生活中的那些琐事/</id>
     <published>2018-11-05T09:49:36.000Z</published>
-    <updated>2019-12-08T04:52:44.358Z</updated>
+    <updated>2020-01-01T05:57:06.136Z</updated>
     
     <summary type="html">
     
@@ -239,7 +259,7 @@
     <link href="/2018/10/29/%E9%A3%9E%E8%A1%8C%E5%91%98/"/>
     <id>/2018/10/29/飞行员/</id>
     <published>2018-10-29T01:49:36.000Z</published>
-    <updated>2019-12-08T04:52:44.359Z</updated>
+    <updated>2020-01-01T05:56:37.581Z</updated>
     
     <summary type="html">
     
@@ -259,7 +279,7 @@
     <link href="/2018/10/27/hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
     <id>/2018/10/27/hexo-github搭建个人独立博客/</id>
     <published>2018-10-27T07:09:35.000Z</published>
-    <updated>2019-12-08T04:52:44.357Z</updated>
+    <updated>2020-01-01T05:57:50.080Z</updated>
     
     <summary type="html">
     
@@ -279,7 +299,7 @@
     <link href="/2018/10/27/%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8%E4%B8%A4%E4%B8%AAGithub%E8%B4%A6%E5%8F%B7/"/>
     <id>/2018/10/27/一台电脑使用两个Github账号/</id>
     <published>2018-10-27T03:33:29.000Z</published>
-    <updated>2019-12-08T04:52:44.357Z</updated>
+    <updated>2020-01-01T05:57:45.561Z</updated>
     
     <summary type="html">
     
