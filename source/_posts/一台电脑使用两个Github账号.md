@@ -2,7 +2,7 @@
 title: 一台电脑使用两个Github账号
 date: 2018-10-27 11:33:29
 author: 刘小宅
-avatar: https://pic.superbed.cn/item/5d024654451253d1783b7967.jpg
+avatar: https://pic.downk.cc/item/5e0c344476085c3289327a49.jpg
 authorLink: 
 authorAbout: 热爱技术的人
 authorDesc: 热爱技术的人

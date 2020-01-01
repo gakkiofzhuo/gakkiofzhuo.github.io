@@ -1,7 +1,7 @@
 ---
 title: gakki的真实实拍
 author: 刘小宅
-avatar: 'https://pic2.superbed.cn/item/5d024654451253d1783b7967.jpg'
+avatar: 'https://pic.downk.cc/item/5e0c344476085c3289327a49.jpg'
 authorAbout: 热爱生活的人
 authorDesc: 热爱生活的人
 categories: 生活
